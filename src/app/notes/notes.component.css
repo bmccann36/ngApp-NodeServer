@@ -1,0 +1,19 @@
+
+
+.note-container {
+  align-items: center;
+  margin: 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+.single-note {
+  flex: 1;
+  margin: 5px;
+  background-color: lightgray;
+  border-style: solid;
+  width: 60%;
+  padding: 1em;
+}
+
+
